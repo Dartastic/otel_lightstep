@@ -2,7 +2,7 @@ name: otel_lightstep
 description: >-
   OpenTelemetry instrumentation for lightstep by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use lightstep.
-version: 0.1.0-wip
+version: 0.1.0
 repository: https://github.com/dartastic/otel_lightstep
 homepage: https://dartastic.io
 
